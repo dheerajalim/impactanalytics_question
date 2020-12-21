@@ -13,3 +13,5 @@ Another Example:
 Using the same logic at index 0 there's an array, then inside that array at index 1 there's another array, which is a concentric array of 3, final one containing the elements 6,8.
 
 
+# Assumption
+The input will always be a valid python list of integers
