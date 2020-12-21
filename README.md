@@ -15,3 +15,9 @@ Using the same logic at index 0 there's an array, then inside that array at inde
 
 # Assumption
 The input will always be a valid python list of integers
+
+#How to test
+> Goto to the directory where the repo is cloned
+>Run $pytest
+
+Tested with Python 3.9.0
